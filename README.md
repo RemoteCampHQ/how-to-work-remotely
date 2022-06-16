@@ -1,6 +1,6 @@
 # How to Work Remotely
 
-Project Description
+- [Companies or Teams](/companies-or-teams)
 
 ## Live Version
 

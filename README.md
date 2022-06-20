@@ -2,13 +2,13 @@
 
 ## Table of contents
 
-- [Discussions](https://github.com/remote-camps/how-to-work-remotely/discussions)
+- [Discussions](https://github.com/remote-camps/how-to-work-remotely/discussions) - Some discussions about remote culture and remote stories.
 - [Companies or Teams](/companies-or-teams) - Some companies or teams that work remotely.
-- [Articles](/articles)
-- [Videos](/videos)
-- [Podcasts](/podcasts)
-- [Books](/books)
-- [Tools](/tools)
+- [Articles](/articles) - Some articles about remote culture and remote stories.
+- [Videos](/videos) - Some videos about remote culture and remote stories.
+- [Podcasts](/podcasts) - Some podcasts about remote culture and remote stories.
+- [Books](/books) - Some books about remote culture and remote stories.
+- [Tools](/tools) - Some tools used in remote work.
 
 ## Live Version
 

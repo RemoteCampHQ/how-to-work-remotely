@@ -2,7 +2,13 @@
 
 ## Table of contents
 
+- [Discussions](https://github.com/remote-camps/how-to-work-remotely/discussions)
 - [Companies or Teams](/companies-or-teams) - Some companies or teams that work remotely.
+- [Articles](/articles)
+- [Videos](/videos)
+- [Podcasts](/podcasts)
+- [Books](/books)
+- [Tools](/tools)
 
 ## Live Version
 

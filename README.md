@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Companies or Teams](/companies-or-teams) Some companies or teams that work remotely.
+- [Companies or Teams](/companies-or-teams) - Some companies or teams that work remotely.
 
 ## Live Version
 

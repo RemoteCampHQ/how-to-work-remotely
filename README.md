@@ -32,6 +32,7 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
 
 - [Remote Working](https://github.com/greatghoul/remote-working)
 - [Remote Jobs](https://github.com/remoteintech/remote-jobs)
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
 ## Licensing
 

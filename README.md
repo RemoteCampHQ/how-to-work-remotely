@@ -20,6 +20,10 @@ If you would like to contribute to the project, you may create a Pull Request co
 
 Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
+## Inspired by
+
+- [Remote Working](https://github.com/greatghoul/remote-working)
+
 ## Licensing
 
 Copyright (C) 2022 Naomi Carrigan

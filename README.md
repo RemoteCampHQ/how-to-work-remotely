@@ -1,5 +1,7 @@
 # How to Work Remotely
 
+## Background
+
 ## Table of contents
 
 - [Discussions](https://github.com/remote-camps/how-to-work-remotely/discussions) - Some discussions about remote culture and remote stories.
@@ -9,10 +11,6 @@
 - [Podcasts](/podcasts) - Some podcasts about remote culture and remote stories.
 - [Books](/books) - Some books about remote culture and remote stories.
 - [Tools](/tools) - Some tools used in remote work.
-
-## Live Version
-
-This page is not yet deployed.
 
 <!--This page is currently deployed. [View the live website.]()-->
 

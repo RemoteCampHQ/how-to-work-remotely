@@ -49,4 +49,4 @@ We may be contacted through our [Chat Server](http://discord.gg/remotecamp) or v
 - [Discord](https://discord.gg/remotecamp)
 - [Twitter](https://twitter.com/remote_camp)
 - [Meduim](https://medium.com/remote-camp)
-- [Github](https://github.com/remote-camps)
+- [Issues](https://github.com/remote-camps/how-to-work-remotely/issues)

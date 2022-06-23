@@ -47,6 +47,6 @@ The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
 We may be contacted through our [Chat Server](http://discord.gg/remotecamp) or via email at `social@remote.camp`.
 - [Website](https://beta.remote.camp)
 - [Discord](https://discord.gg/remotecamp)
-- [Twitter](https://twitter.com/remote_camp)
+- [Twitter](https://twitter.com/intent/follow?screen_name=remote_camp)
 - [Meduim](https://medium.com/remote-camp)
 - [Issues](https://github.com/remote-camps/how-to-work-remotely/issues)

@@ -44,7 +44,7 @@ The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
 
 ## Contact
 
-- Star this repo [Github](https://github.com/remote-camps)
+- Star this repo
 - Follow us on [Twitter](https://twitter.com/remote_camp)
 - Join us on [Discord](https://discord.gg/remotecamp)
 

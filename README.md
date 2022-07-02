@@ -14,6 +14,9 @@
 
 <!--This page is currently deployed. [View the live website.]()-->
 
+## Roadmap
+- [ ] [China Companies Or Teams](https://github.com/remote-camps/how-to-work-remotely/blob/main/companies-or-teams/China.md)
+
 ## Feedback and Bugs
 
 If you have feedback or a bug report, please feel free to open a GitHub issue!

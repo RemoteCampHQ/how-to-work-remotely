@@ -2,6 +2,9 @@
 
 ## Background
 
+## Roadmap
+- [China Companies Or Teams](https://github.com/remote-camps/how-to-work-remotely/blob/main/companies-or-teams/China.md)
+
 ## Table of contents
 
 - [Discussions](https://github.com/remote-camps/how-to-work-remotely/discussions) - Some discussions about remote culture and remote stories.
@@ -13,9 +16,6 @@
 - [Tools](/tools) - Some tools used in remote work.
 
 <!--This page is currently deployed. [View the live website.]()-->
-
-## Roadmap
-- [ ] [China Companies Or Teams](https://github.com/remote-camps/how-to-work-remotely/blob/main/companies-or-teams/China.md)
 
 ## Feedback and Bugs
 
